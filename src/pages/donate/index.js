@@ -27,14 +27,14 @@ export default function DonateCard() {
           Every contribution matters. Donations can be made to the following address:
         </p>
         <div className="bg-slate-100 dark:bg-slate-900 text-slate-900 dark:text-slate-200 font-mono rounded-md p-4 mb-6 break-all">
-          TODO.
+          6K6w1aNAa3em5hzRhPVGvbjfqC6EnaL17JW6kC5xso2w
         </div>
         <p className="text-lg text-slate-700 dark:text-slate-400 leading-relaxed">
           Together, let’s ignite a revolution in science and pave the way for a brighter future.
         </p>
         <div className="mt-8">
           <a
-            href="https://google.com"
+            href="https://solscan.io/account/6K6w1aNAa3em5hzRhPVGvbjfqC6EnaL17JW6kC5xso2w"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-gradient-to-r from-purple-500 to-green-400 text-white font-medium shadow-lg hover:shadow-xl hover:from-purple-600 hover:to-green-500 transition-all duration-300"
